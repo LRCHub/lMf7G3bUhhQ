@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "SUMMER MAGiC",
+  "base_artist": "マジカル・パンチライン",
+  "createdAt": "2025-12-10T14:24:12.533475Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On the Front Porch (Summer Magic)",
+      "artist": "Richard M. Sherman & Robert B. Sherman",
+      "has_synced": false,
+      "path": "select/01_On_the_Front_Porch_(Summer_Magic)_Richard_M._Sherman_&_Robert_B._Sherman.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Ugly Bug Ball - From \"Summer Magic\"",
+      "artist": "Burl Ives",
+      "has_synced": false,
+      "path": "select/02_The_Ugly_Bug_Ball_-_From__Summer_Magic_Burl_Ives.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Ugly Bug Ball - Summer Magic",
+      "artist": "Burl Ives",
+      "has_synced": false,
+      "path": "select/03_The_Ugly_Bug_Ball_-_Summer_Magic_Burl_Ives.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Ugly Bug Ball (Summer Magic)",
+      "artist": "Burl Ives",
+      "has_synced": true,
+      "path": "select/04_The_Ugly_Bug_Ball_(Summer_Magic)_Burl_Ives.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Ugly Bug Ball (Summer Magic)",
+      "artist": "Los Lobos",
+      "has_synced": false,
+      "path": "select/05_The_Ugly_Bug_Ball_(Summer_Magic)_Los_Lobos.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Ugly Bug Ball (From \"Summer Magic\")",
+      "artist": "Burl Ives",
+      "has_synced": false,
+      "path": "select/06_The_Ugly_Bug_Ball_(From__Summer_Magic_)_Burl_Ives.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "On The Front Porch [Summer Magic]",
+      "artist": "Burl Ives",
+      "has_synced": true,
+      "path": "select/07_On_The_Front_Porch_[Summer_Magic]_Burl_Ives.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SUMMER MAGIC",
+      "artist": "Yoshida Rinne",
+      "has_synced": false,
+      "path": "select/08_SUMMER_MAGIC_Yoshida_Rinne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUMMER MAGiC",
+      "artist": "マジカル・パンチライン",
+      "has_synced": false,
+      "path": "select/pl_01_SUMMER_MAGiC_マジカル・パンチライン.txt"
+    }
+  ]
+}
